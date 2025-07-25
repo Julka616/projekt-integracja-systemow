@@ -1,0 +1,214 @@
+[
+  {
+    "date": "Jan 1 – 7, 2023",
+    "popularity": 55
+  },
+  {
+    "date": "Jan 8 – 14, 2023",
+    "popularity": 62
+  },
+  {
+    "date": "Jan 15 – 21, 2023",
+    "popularity": 75
+  },
+  {
+    "date": "Jan 22 – 28, 2023",
+    "popularity": 67
+  },
+  {
+    "date": "Jan 29 – Feb 4, 2023",
+    "popularity": 66
+  },
+  {
+    "date": "Feb 5 – 11, 2023",
+    "popularity": 55
+  },
+  {
+    "date": "Feb 12 – 18, 2023",
+    "popularity": 62
+  },
+  {
+    "date": "Feb 19 – 25, 2023",
+    "popularity": 57
+  },
+  {
+    "date": "Feb 26 – Mar 4, 2023",
+    "popularity": 52
+  },
+  {
+    "date": "Mar 5 – 11, 2023",
+    "popularity": 56
+  },
+  {
+    "date": "Mar 12 – 18, 2023",
+    "popularity": 87
+  },
+  {
+    "date": "Mar 19 – 25, 2023",
+    "popularity": 85
+  },
+  {
+    "date": "Mar 26 – Apr 1, 2023",
+    "popularity": 71
+  },
+  {
+    "date": "Apr 2 – 8, 2023",
+    "popularity": 64
+  },
+  {
+    "date": "Apr 9 – 15, 2023",
+    "popularity": 79
+  },
+  {
+    "date": "Apr 16 – 22, 2023",
+    "popularity": 67
+  },
+  {
+    "date": "Apr 23 – 29, 2023",
+    "popularity": 64
+  },
+  {
+    "date": "Apr 30 – May 6, 2023",
+    "popularity": 59
+  },
+  {
+    "date": "May 7 – 13, 2023",
+    "popularity": 63
+  },
+  {
+    "date": "May 14 – 20, 2023",
+    "popularity": 55
+  },
+  {
+    "date": "May 21 – 27, 2023",
+    "popularity": 51
+  },
+  {
+    "date": "May 28 – Jun 3, 2023",
+    "popularity": 52
+  },
+  {
+    "date": "Jun 4 – 10, 2023",
+    "popularity": 55
+  },
+  {
+    "date": "Jun 11 – 17, 2023",
+    "popularity": 53
+  },
+  {
+    "date": "Jun 18 – 24, 2023",
+    "popularity": 64
+  },
+  {
+    "date": "Jun 25 – Jul 1, 2023",
+    "popularity": 60
+  },
+  {
+    "date": "Jul 2 – 8, 2023",
+    "popularity": 57
+  },
+  {
+    "date": "Jul 9 – 15, 2023",
+    "popularity": 62
+  },
+  {
+    "date": "Jul 16 – 22, 2023",
+    "popularity": 55
+  },
+  {
+    "date": "Jul 23 – 29, 2023",
+    "popularity": 51
+  },
+  {
+    "date": "Jul 30 – Aug 5, 2023",
+    "popularity": 50
+  },
+  {
+    "date": "Aug 6 – 12, 2023",
+    "popularity": 48
+  },
+  {
+    "date": "Aug 13 – 19, 2023",
+    "popularity": 59
+  },
+  {
+    "date": "Aug 20 – 26, 2023",
+    "popularity": 57
+  },
+  {
+    "date": "Aug 27 – Sep 2, 2023",
+    "popularity": 55
+  },
+  {
+    "date": "Sep 3 – 9, 2023",
+    "popularity": 47
+  },
+  {
+    "date": "Sep 10 – 16, 2023",
+    "popularity": 45
+  },
+  {
+    "date": "Sep 17 – 23, 2023",
+    "popularity": 41
+  },
+  {
+    "date": "Sep 24 – 30, 2023",
+    "popularity": 40
+  },
+  {
+    "date": "Oct 1 – 7, 2023",
+    "popularity": 45
+  },
+  {
+    "date": "Oct 8 – 14, 2023",
+    "popularity": 44
+  },
+  {
+    "date": "Oct 15 – 21, 2023",
+    "popularity": 54
+  },
+  {
+    "date": "Oct 22 – 28, 2023",
+    "popularity": 82
+  },
+  {
+    "date": "Oct 29 – Nov 4, 2023",
+    "popularity": 64
+  },
+  {
+    "date": "Nov 5 – 11, 2023",
+    "popularity": 71
+  },
+  {
+    "date": "Nov 12 – 18, 2023",
+    "popularity": 64
+  },
+  {
+    "date": "Nov 19 – 25, 2023",
+    "popularity": 63
+  },
+  {
+    "date": "Nov 26 – Dec 2, 2023",
+    "popularity": 61
+  },
+  {
+    "date": "Dec 3 – 9, 2023",
+    "popularity": 100
+  },
+  {
+    "date": "Dec 10 – 16, 2023",
+    "popularity": 79
+  },
+  {
+    "date": "Dec 17 – 23, 2023",
+    "popularity": 75
+  },
+  {
+    "date": "Dec 24 – 30, 2023",
+    "popularity": 73
+  },
+  {
+    "date": "Dec 31, 2023 – Jan 6, 2024",
+    "popularity": 91
+  }
+]

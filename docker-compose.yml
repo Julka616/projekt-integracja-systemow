@@ -1,0 +1,45 @@
+services:
+  db:
+    image: postgres:15
+    container_name: gpu-postgres-alt
+    restart: always
+    environment:
+      POSTGRES_DB: graphics_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  backend:
+    build: ./backend
+    container_name: gpu-backend
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_USER: postgres
+      DB_PASSWORD: password123
+      DB_NAME: graphics_db
+    working_dir: /app
+    volumes:
+      - ./backend:/app
+    command: sh -c "node scripts/createTestUser.js && node scripts/importBitcoinTrends.js && node scripts/importGpuCsv.js && concurrently \"npm start\" \"node soapService.js\""
+    ports:
+      - "5000:5000"
+
+  frontend:
+    build: ./frontend
+    container_name: gpu-frontend
+    depends_on:
+      - backend
+    working_dir: /app
+    volumes:
+      - ./frontend:/app
+    command: npm start
+    ports:
+      - "3000:3000"
+
+volumes:
+  postgres-data:
